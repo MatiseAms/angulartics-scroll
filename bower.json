@@ -1,7 +1,7 @@
 {
   "name": "angulartics-scroll",
   "version": "0.0.1",
-  "main": "./dist/angulartics-scroll.min.js",
+  "main": "./lib/angulartics-scroll.js",
   "dependencies": {
     "angulartics": "~1.0.0",
     "waypoints": "4.0.0"
@@ -12,9 +12,21 @@
     "node_modules",
     "example",
     "package.json",
-    "lib/index.js"
+    "lib/index.js",
+    "test",
+    "tests"
   ],
   "resolutions": {
     "waypoints": "4.0.0"
-  }
+  },
+  "homepage": "https://github.com/MatiseAms/angulartics-scroll",
+  "authors": [
+    "Maurits Meester <maurits@matise.nl>"
+  ],
+  "description": "Scroll analytics plugin for angulartics",
+  "keywords": [
+    "angulartics",
+    "scroll"
+  ],
+  "license": "MIT"
 }
