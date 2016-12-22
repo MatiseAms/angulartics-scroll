@@ -1,6 +1,6 @@
 {
   "name": "angulartics-scroll",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "scroll tracking plugin for angulartics",
   "main": "lib/index.js",
   "scripts": {
@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/angulartics/angulartics-scroll/issues"
   },
-  "homepage": "https://github.com/angulartics/angulartics-scroll#readme"
+  "homepage": "https://github.com/angulartics/angulartics-scroll#readme",
+  "directories": {
+    "example": "example"
+  }
 }
