@@ -1,6 +1,6 @@
 {
   "name": "angulartics-scroll",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "./lib/angulartics-scroll.js",
   "dependencies": {
     "angulartics": "~1.0.0",
